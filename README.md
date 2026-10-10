@@ -4,7 +4,11 @@ A free browser learning game by [Coded Female](https://codedfemale.com). Escape 
 
 ## Play
 
-GitHub Pages publication is not yet verified. The public play link will be added here after deployment.
+[Play AI Escape Room: Exit the Loop](https://codedfemale-dev.github.io/ai-escape-room/)
+
+[View the code on GitHub](https://github.com/codedfemale-dev/ai-escape-room)
+
+Published on 10 October 2026. The live game was verified with a full playthrough of all three rooms and the final exit.
 
 ## The rooms
 

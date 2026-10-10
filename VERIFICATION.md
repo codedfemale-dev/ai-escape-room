@@ -1,6 +1,6 @@
 # Verification
 
-Checked locally on 10 October 2026. GitHub upload and publication are not yet verified.
+Checked locally and published on GitHub Pages on 10 October 2026. Repository: https://github.com/codedfemale-dev/ai-escape-room. Play: https://codedfemale-dev.github.io/ai-escape-room/. GitHub Pages deployment completed successfully.
 
 ## Passed
 
@@ -14,8 +14,10 @@ Checked locally on 10 October 2026. GitHub upload and publication are not yet ve
 - The final door rejected an incorrect code and accepted the collected fragments in order.
 - Escape notes downloaded as `coded-female-ai-escape-notes.txt`.
 - Replay returned to the first room and hid all previously collected fragments.
-- Phone layout at 390 pixels wide showed no horizontal overflow in the checked state.
+- Phone layout at 390 pixels wide and desktop layout at 1280 pixels wide showed no horizontal overflow in the checked states.
+- After final readability changes, the five automated checks passed again.
+- A full live browser playthrough passed all three rooms and the final exit without hints, verifying the other final-screen branch. No browser errors or warnings were reported.
 
 ## Limits
 
-These are local browser checks, not a complete screen-reader or cross-browser audit. All AI outputs and source documents are scripted, fictional examples. Live publication should be verified separately.
+These checks are not a complete screen-reader or cross-browser audit. All AI outputs and source documents are scripted, fictional examples.
